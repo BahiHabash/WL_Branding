@@ -1,2 +1,2 @@
-# Marketing-Project---DEPI
+# WL Branding
 Marketing Project - DEPI
