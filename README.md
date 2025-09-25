@@ -21,3 +21,11 @@ Instead of relying on short-term ads, the project delivers tangible items that s
 
 ## Unique Value Proposition
 *"Promoting your brand through products that people use, keep, and remember."*
+
+## Team Members
+- Toqa Ahmed Hassan  
+- Mariam Mohamed Hassan  
+- Mohamed Mahmoud Qotp  
+- Mohamed Khaled Hegazy  
+- Habiba Ahmed Soliman
+
